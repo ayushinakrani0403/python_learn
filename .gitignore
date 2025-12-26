@@ -1,7 +1,10 @@
 # Python virtual environments
 .venv/
 venv/
-env/
+.env/
+
+# Environment variables
+.env
 
 # PyCharm / IntelliJ IDEA
 .idea/
